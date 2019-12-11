@@ -28,68 +28,68 @@ msgstr ""
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 msgid "<i class=\"fa fa-archive\"/> Archive"
-msgstr ""
+msgstr "<i class=\"fa fa-archive\"/> Lưu trữ"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 msgid "<i class=\"fa fa-archive\"/> Unarchive"
-msgstr ""
+msgstr "<i class=\"fa fa-archive\"/> Bỏ lưu trữ"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 msgid "<i class=\"fa fa-download\"/> Download"
-msgstr ""
+msgstr "<i class=\"fa fa-download\"/> Tải xuống"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
 msgid "<i class=\"fa fa-external-link\"/> Open"
-msgstr ""
+msgstr "<i class=\"fa fa-external-link\"/> Mở"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
 msgid "<i class=\"fa fa-file-o\"/> Files"
-msgstr ""
+msgstr "<i class=\"fa fa-file-o\"/> Tài liệu"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
 msgid "<i class=\"fa fa-folder-o\"/> Directories"
-msgstr ""
+msgstr "<i class=\"fa fa-folder-o\"/> Cây thư mục"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 msgid "<i class=\"fa fa-lock\"/> Lock"
-msgstr ""
+msgstr "<i class=\"fa fa-lock\"/> Khoá"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
 msgid "<i class=\"fa fa-pencil-square-o\"/> Edit"
-msgstr ""
+msgstr "<i class=\"fa fa-pencil-square-o\"/> Chỉnh sửa"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
 msgid "<i class=\"fa fa-trash-o\"/> Delete"
-msgstr ""
+msgstr "<i class=\"fa fa-trash-o\"/> Xoá"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 msgid "<i class=\"fa fa-unlock-alt\"/> Unlock"
-msgstr ""
+msgstr "<i class=\"fa fa-unlock-alt\"/> Mở khoá"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">File Extensions</span>"
-msgstr ""
+msgstr "<span class=\"o_form_label\">Loại mở rộng</span>"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">File Size</span>"
-msgstr ""
+msgstr "<span class=\"o_form_label\">Kích thước</span>"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
@@ -100,53 +100,53 @@ msgstr "<strong>Lưu</strong> trang này và quay lại để thiết lập ti�
 #: code:addons/muk_dms/models/directory.py:380
 #, python-format
 msgid "A directory can't be a root and have a parent directory."
-msgstr ""
+msgstr "Một thư mục gốc bắt buộc là thư mục bắt đầu cây thư mục."
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/directory.py:378
 #, python-format
 msgid "A directory has to have a parent directory."
-msgstr ""
+msgstr "Thư mục bắt buộc phải có thư mục cha."
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/directory.py:398
 #, python-format
 msgid "A directory with the same name already exists."
-msgstr ""
+msgstr "Tồn tại thư mục khác cùng tên."
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/directory.py:462
 #, python-format
 msgid "A file is locked, the folder cannot be deleted."
-msgstr ""
+msgstr "Không thể xoá thư mục chứa tài liệu đang bị khoá."
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/file.py:500
 #, python-format
 msgid "A file with the same name already exists."
-msgstr ""
+msgstr "Tồn tại tài liệu khác cùng tên."
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/directory.py:376
 #, python-format
 msgid "A root directory has to have a root storage."
-msgstr ""
+msgstr "Thư mục gốc phải có kiểu lưu trữ."
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_access
 msgid "Access Control"
-msgstr ""
+msgstr "Kiểm soát truy cập"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
 msgid "Access Information"
-msgstr ""
+msgstr "Thông tin truy cập"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_07_demo
 msgid "Accounting"
-msgstr ""
+msgstr "Kế toán"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
@@ -157,32 +157,32 @@ msgstr "Hành động"
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Activates a file trash to restore deleted files"
-msgstr ""
+msgstr "Kích hoạt một tài liệu rác để khôi phụ tài liệu đã xoá"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_trash
 msgid "Activates a file trash to restore deleted files."
-msgstr ""
+msgstr "Kích hoạt một tài liệu rác để khôi phụ tài liệu đã xoá."
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Activates the documents tree view"
-msgstr ""
+msgstr "Kích hoạt hiển thị cây tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_view
 msgid "Activates the documents tree view."
-msgstr ""
+msgstr "Kích hoạt hiển thị cây tài liệu."
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Activates the preview function on files"
-msgstr ""
+msgstr "Kích hoạt tính năng xem trước tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_preview
 msgid "Activates the preview function on files."
-msgstr ""
+msgstr "Kích hoạt tính năng xem trước tài liệu."
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__active
@@ -193,14 +193,14 @@ msgstr "Có hiệu lực"
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directory
 msgid "Add a new Directory."
-msgstr ""
+msgstr "Tạo mới thư mục."
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file_migration
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file_storage_migration
 msgid "Add a new File."
-msgstr ""
+msgstr "Tạo mới tài liệu."
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
@@ -221,7 +221,7 @@ msgstr "Tất cả"
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
 msgid "All Files"
-msgstr ""
+msgstr "Tất cả tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_attachment_rules
@@ -306,17 +306,17 @@ msgstr ""
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_06_demo
 msgid "Apps"
-msgstr ""
+msgstr "Ứng dụng"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__active
 msgid "Archived"
-msgstr ""
+msgstr "Lưu trữ"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
 msgid "Archived Files"
-msgstr ""
+msgstr "Tài liệu lưu trữ"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_attachment_automation
@@ -385,12 +385,12 @@ msgstr "Hủy"
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_search
 #, python-format
 msgid "Categories"
-msgstr ""
+msgstr "Phân loại"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_category
 msgid "Categories are used to categorize Documents."
-msgstr ""
+msgstr "Phân loại được sử dụng"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__category
@@ -406,7 +406,7 @@ msgstr "Danh mục"
 #. module: muk_dms
 #: sql_constraint:muk_dms.category:0
 msgid "Category name already exists!"
-msgstr ""
+msgstr "Phân loại đã tồn tại"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__checksum
@@ -416,26 +416,26 @@ msgstr ""
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__child_categories
 msgid "Child Categories"
-msgstr ""
+msgstr "Phân loại con"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_all_directory
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_directory
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_storage
 msgid "Click to add a new directory."
-msgstr ""
+msgstr "Click để tạo thư mục mới"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_all_directory
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_directory
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_storage
 msgid "Click to add a new file."
-msgstr ""
+msgstr "Click để tạo tài liệu mới"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_tag
 msgid "Click to create a new tag."
-msgstr ""
+msgstr "Click để tạo thẻ mới"
 
 #. module: muk_dms
 #: selection:res.company,documents_onboarding_directory_state:0
@@ -443,7 +443,7 @@ msgstr ""
 #: selection:res.company,documents_onboarding_state:0
 #: selection:res.company,documents_onboarding_storage_state:0
 msgid "Closed"
-msgstr ""
+msgstr "Đã đóng"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__color
@@ -484,34 +484,34 @@ msgstr "Cấu hình"
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__content
 msgid "Content"
-msgstr ""
+msgstr "Nội dung"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__content_binary
 msgid "Content Binary"
-msgstr ""
+msgstr "Nội dung nhị phân"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_11_demo
 msgid "Contract"
-msgstr ""
+msgstr "Hợp đồng"
 
 #. module: muk_dms
 #: model:muk_dms.category,name:muk_dms.category_03_demo
 msgid "Contracts"
-msgstr ""
+msgstr "Hợp đồng"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_directories
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__count_storage_directories
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__count_directories
 msgid "Count Directories"
-msgstr ""
+msgstr "Đếm cây thư mục"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_elements
 msgid "Count Elements"
-msgstr ""
+msgstr "Đếm phần tử"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_files
@@ -519,22 +519,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__count_storage_files
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__count_files
 msgid "Count Files"
-msgstr ""
+msgstr "Đếm tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_categories
 msgid "Count Subcategories"
-msgstr ""
+msgstr "Đếm phân loại con"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_directories
 msgid "Count Subdirectories"
-msgstr ""
+msgstr "Đếm thư mục con"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_tags
 msgid "Count Tags"
-msgstr ""
+msgstr "Đếm thẻ"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_new_form
@@ -552,42 +552,42 @@ msgstr "Quyền tạo"
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_directory_step
 msgid "Create Directory"
-msgstr ""
+msgstr "Tạo thư mục"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_storage_step
 msgid "Create Storage"
-msgstr ""
+msgstr "Tạo lưu trữ"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_category
 msgid "Create a new Category."
-msgstr ""
+msgstr "Tạo phân loại mới"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_storage_step
 msgid "Create a new Document Storage."
-msgstr ""
+msgstr "Tạo kiểu lưu trữ mới"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_directory_step
 msgid "Create a new Root Directory."
-msgstr ""
+msgstr "Tạo thư mục gốc mới"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_storage
 msgid "Create a new Storage object."
-msgstr ""
+msgstr "Tạo đối tượng lưu trữ mới"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Create custom file operations"
-msgstr ""
+msgstr "Tạo thao tác tài liệu tuỳ chỉnh"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_actions
 msgid "Create custom file operations."
-msgstr ""
+msgstr "Tạo thao tác tài liệu tuỳ chỉnh."
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__create_uid
@@ -623,7 +623,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__custom_thumbnail
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__custom_thumbnail
 msgid "Custom Thumbnail"
-msgstr ""
+msgstr "Hình nhỏ tuỳ chỉnh"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
@@ -634,34 +634,34 @@ msgstr "Khách hàng"
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_08_demo
 msgid "Customer Invoice"
-msgstr ""
+msgstr "Hoá đơn khách hàng"
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/storage.py:45
 #: selection:muk_dms.storage,save_type:0
 #, python-format
 msgid "Database"
-msgstr ""
+msgstr "Cơ sở dữ liệu"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Define forbidden file extensions"
-msgstr ""
+msgstr "Cấu hình tài liệu không cho phép"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Define the maximum upload size of a file in MB"
-msgstr ""
+msgstr "Cấu hình kích thước tài liệu tải lên lớn nhất"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__documents_forbidden_extensions
 msgid "Defines a list of forbidden file extensions. (Example: 'exe,msi')"
-msgstr ""
+msgstr "Cấu hình tài liệu không cho phép. Ví dụ ('exe, msi)'"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_res_config_settings__documents_binary_max_size
 msgid "Defines the maximum upload size in MB. Default (25MB)"
-msgstr ""
+msgstr "Cấu hình kích thước tài liệu tải lên lớn nhất. Mặc định (25MB)"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__permission_unlink
@@ -686,7 +686,7 @@ msgstr "Quyền xóa"
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
 #, python-format
 msgid "Directories"
-msgstr ""
+msgstr "Cây thư mục"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_all_directory
@@ -695,7 +695,8 @@ msgstr ""
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directory
 msgid "Directories can be used to structure and organize\n"
 "			files directly in Odoo."
-msgstr ""
+msgstr "Cây thư mục có thể được sử dụng để cấu trúc \n"
+"			tài liệu."
 
 #. module: muk_dms
 #: model:ir.model,name:muk_dms.model_muk_dms_directory
@@ -703,7 +704,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_directory_step
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
 msgid "Directory"
-msgstr ""
+msgstr "Thư mục"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__display_name
@@ -718,23 +719,23 @@ msgstr "Tên hiển thị"
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_actions
 msgid "Document Actions"
-msgstr ""
+msgstr "Hành động"
 
 #. module: muk_dms
 #: model:ir.model,name:muk_dms.model_muk_dms_category
 msgid "Document Category"
-msgstr ""
+msgstr "Phân loại tài liệu"
 
 #. module: muk_dms
 #: model:ir.model,name:muk_dms.model_muk_dms_tag
 msgid "Document Tag"
-msgstr ""
+msgstr "Thẻ"
 
 #. module: muk_dms
 #: model:ir.module.category,name:muk_dms.category_dms_security
 #: model:ir.ui.menu,name:muk_dms.main_menu_muk_dms
 msgid "Documents"
-msgstr ""
+msgstr "Tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_company__documents_onboarding_directory_state
@@ -772,29 +773,29 @@ msgstr ""
 #: selection:res.company,documents_onboarding_state:0
 #: selection:res.company,documents_onboarding_storage_state:0
 msgid "Done"
-msgstr ""
+msgstr "Hoàn thành"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_archive
 msgid "Download Directories"
-msgstr ""
+msgstr "Tải cây thư mục"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
 msgid "Dropdown menu"
-msgstr ""
+msgstr "Menu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__is_lock_editor
 msgid "Editor"
-msgstr ""
+msgstr "Biên tập"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
 msgid "Elements"
-msgstr ""
+msgstr "Thành phần"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
@@ -840,29 +841,29 @@ msgstr ""
 #: code:addons/muk_dms/models/category.py:149
 #, python-format
 msgid "Error! You cannot create recursive categories."
-msgstr ""
+msgstr "Lỗi! Không thể tạo phân loại đệ quy."
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/directory.py:369
 #, python-format
 msgid "Error! You cannot create recursive directories."
-msgstr ""
+msgstr "Lỗi! Không thể tạo thư mục đệ quy."
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_export
 msgid "Export Files"
-msgstr ""
+msgstr "Xuất tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__extension
 msgid "Extension"
-msgstr ""
+msgstr "Phần mở rộng"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__documents_forbidden_extensions
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "Extensions"
-msgstr ""
+msgstr "Phần mở rộng"
 
 #. module: muk_dms
 #: model:muk_dms.category,name:muk_dms.category_05_demo
@@ -873,22 +874,22 @@ msgstr ""
 #: model:ir.model,name:muk_dms.model_muk_dms_file
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_file_step
 msgid "File"
-msgstr ""
+msgstr "Tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_index
 msgid "File Indexation"
-msgstr ""
+msgstr "Chỉ mục tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_preview
 msgid "File Preview"
-msgstr ""
+msgstr "Xem trước tài liệu"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
 msgid "File Upload"
-msgstr ""
+msgstr "Tập tin tải lên"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__name
@@ -916,7 +917,7 @@ msgstr "Tên tập tin"
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
 msgid "Files"
-msgstr ""
+msgstr "Tài liệu"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file
@@ -931,12 +932,12 @@ msgstr ""
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_file
 msgid "Filestore Storage"
-msgstr ""
+msgstr "Lưu trữ dạng tập tin"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_finder
 msgid "Finder"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #. module: muk_dms
 #: model:ir.actions.act_window,name:muk_dms.action_dms_settings_general
@@ -961,7 +962,7 @@ msgstr ""
 #. module: muk_dms
 #: model:muk_dms.category,name:muk_dms.category_02_demo
 msgid "Human Resource"
-msgstr ""
+msgstr "Nhân sự"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__id
@@ -1018,12 +1019,12 @@ msgstr ""
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
 msgid "Invoices"
-msgstr ""
+msgstr "Hoá đơn"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__is_root_directory
 msgid "Is Root Directory"
-msgstr ""
+msgstr "Thư mục gốc"
 
 #. module: muk_dms
 #: selection:res.company,documents_onboarding_directory_state:0
@@ -1031,12 +1032,12 @@ msgstr ""
 #: selection:res.company,documents_onboarding_state:0
 #: selection:res.company,documents_onboarding_storage_state:0
 msgid "Just done"
-msgstr ""
+msgstr "Mới hoàn thành"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_lobject
 msgid "Large Objects Storage"
-msgstr ""
+msgstr "Lưu trữ kiểu đối tượng lớn"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category____last_update
@@ -1069,22 +1070,22 @@ msgstr "Cập nhật lần cuối vào"
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
 msgid "Lock"
-msgstr ""
+msgstr "Khoá"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__is_locked
 msgid "Locked"
-msgstr ""
+msgstr "Đã khoá"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__locked_by
 msgid "Locked by"
-msgstr ""
+msgstr "Khoá bởi"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_mail
 msgid "Mail Support"
-msgstr ""
+msgstr "Mail hỗ trợ"
 
 #. module: muk_dms
 #: model:res.groups,name:muk_dms.group_dms_manager
@@ -1146,22 +1147,22 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
 msgid "Modification Date"
-msgstr ""
+msgstr "Ngày chỉnh sửa"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
 msgid "My Directories"
-msgstr ""
+msgstr "Thư mục của tôi"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
 msgid "My Documents"
-msgstr ""
+msgstr "Tài liệu của tôi"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
 msgid "My Files"
-msgstr ""
+msgstr "Tài liệu của tôi"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__name
@@ -1175,24 +1176,24 @@ msgstr "Tên"
 #: model:ir.actions.act_window,name:muk_dms.action_dms_directory_new
 #: model:ir.actions.act_window,name:muk_dms.action_dms_file_new
 msgid "New Root Directory"
-msgstr ""
+msgstr "Thư mục gốc mới"
 
 #. module: muk_dms
 #: model:ir.actions.act_window,name:muk_dms.action_dms_storage_new
 msgid "New Storage"
-msgstr ""
+msgstr "Lưu trữ mới"
 
 #. module: muk_dms
 #: model:muk_dms.category,name:muk_dms.category_06_demo
 msgid "News"
-msgstr ""
+msgstr "Tin tức"
 
 #. module: muk_dms
 #. openerp-web
 #: code:addons/muk_dms/static/src/js/views/file/kanban/file_kanban_controller.js:61
 #, python-format
 msgid "No Directory has been selected!"
-msgstr ""
+msgstr "Không có thư mục được chọn!"
 
 #. module: muk_dms
 #: selection:res.company,documents_onboarding_directory_state:0
@@ -1200,23 +1201,23 @@ msgstr ""
 #: selection:res.company,documents_onboarding_state:0
 #: selection:res.company,documents_onboarding_storage_state:0
 msgid "Not done"
-msgstr ""
+msgstr "Chưa hoàn thành"
 
 #. module: muk_dms
 #: code:addons/muk_dms/models/storage.py:102
 #, python-format
 msgid "Only managers can execute this action."
-msgstr ""
+msgstr "Chỉ quản lý mới thực hiện được thao tác này."
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
 msgid "Operations"
-msgstr ""
+msgstr "Thao tác"
 
 #. module: muk_dms
 #: model:ir.ui.menu,name:muk_dms.cat_menu_muk_dms_config_organizing
 msgid "Organizing"
-msgstr ""
+msgstr "Tổ chức"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_category
@@ -1226,58 +1227,58 @@ msgstr "Danh mục cha"
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_directory
 msgid "Parent Directory"
-msgstr ""
+msgstr "Thư mục cha"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_path
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_path
 msgid "Parent Path"
-msgstr ""
+msgstr "Đường dẫn cha"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_02_demo
 msgid "Partner"
-msgstr ""
+msgstr "Đối tác"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_tree
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_tree
 msgid "Path"
-msgstr ""
+msgstr "Đường dẫn"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_path_json
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_path_json
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__path_json
 msgid "Path Json"
-msgstr ""
+msgstr "Đường dẫn Json"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_path_names
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_path_names
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__path_names
 msgid "Path Names"
-msgstr ""
+msgstr "Tên đường dẫn"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_users
 msgid "Personal Documents"
-msgstr ""
+msgstr "Tài liệu cá nhân"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_05_demo
 msgid "Portal"
-msgstr ""
+msgstr "Cổng thông tin"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_10_demo
 msgid "Product"
-msgstr ""
+msgstr "Sản phẩm"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_03_demo
 msgid "Project"
-msgstr ""
+msgstr "Dự án"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__permission_read
@@ -1288,30 +1289,30 @@ msgstr "Quyền xem"
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_trash
 msgid "Restore Files"
-msgstr ""
+msgstr "Khôi phục tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__root_directories
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
 msgid "Root Directories"
-msgstr ""
+msgstr "Thư mục gốc"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__root_storage
 msgid "Root Storage"
-msgstr ""
+msgstr "Lưu trữ gốc"
 
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_04_demo
 msgid "Sales"
-msgstr ""
+msgstr "Bán hàng"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__save_type
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_search
 msgid "Save Type"
-msgstr ""
+msgstr "Kiểu lưu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__size
@@ -1325,14 +1326,14 @@ msgstr "Kích thước"
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__custom_thumbnail_small
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__custom_thumbnail_small
 msgid "Small Custom Thumbnail"
-msgstr ""
+msgstr "Tuỳ biến hình nhỏ"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__thumbnail_small
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__thumbnail_small
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__thumbnail_small
 msgid "Small Thumbnail"
-msgstr ""
+msgstr "Hình nhỏ"
 
 #. module: muk_dms
 #. openerp-web
@@ -1347,12 +1348,12 @@ msgstr "Được gắn sao"
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
 msgid "Starred Directories"
-msgstr ""
+msgstr "Thư mục được gắn sao"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__user_stars
 msgid "Stars"
-msgstr ""
+msgstr "Sao"
 
 #. module: muk_dms
 #: model:ir.model,name:muk_dms.model_muk_dms_storage
@@ -1365,21 +1366,21 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file_migration
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
 msgid "Storage"
-msgstr ""
+msgstr "Lưu trữ"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__is_hidden
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__is_hidden
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__is_hidden
 msgid "Storage is Hidden"
-msgstr ""
+msgstr "Lưu trữ bị ẩn"
 
 #. module: muk_dms
 #: model:ir.actions.act_window,name:muk_dms.action_dms_storage
 #: model:ir.ui.menu,name:muk_dms.menu_dms_storage
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_tree
 msgid "Storages"
-msgstr ""
+msgstr "Lưu trữ"
 
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_storage
@@ -1389,7 +1390,7 @@ msgstr ""
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
 msgid "Subcategories"
-msgstr ""
+msgstr "Phân loại con"
 
 #. module: muk_dms
 #: model:ir.actions.act_window,name:muk_dms.action_dms_directories_all_directory
@@ -1397,12 +1398,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__child_directories
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
 msgid "Subdirectories"
-msgstr ""
+msgstr "Thư mục con"
 
 #. module: muk_dms
 #: model:ir.ui.menu,name:muk_dms.cat_menu_muk_dms_config_system
 msgid "System"
-msgstr ""
+msgstr "Hệ thống"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
@@ -1412,7 +1413,7 @@ msgstr "Từ khóa"
 #. module: muk_dms
 #: sql_constraint:muk_dms.tag:0
 msgid "Tag name already exists!"
-msgstr ""
+msgstr "Tên thẻ đã tồn tại"
 
 #. module: muk_dms
 #. openerp-web
@@ -1431,7 +1432,7 @@ msgstr "Từ khóa"
 #. module: muk_dms
 #: model_terms:ir.actions.act_window,help:muk_dms.action_dms_tag
 msgid "Tags are used to categorize Documents."
-msgstr ""
+msgstr "Thẻ để phân loại tài liệu"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
@@ -1443,7 +1444,7 @@ msgstr "Từ khoá..."
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
 msgid "Technical Information"
-msgstr ""
+msgstr "Thông tin kĩ thuật"
 
 #. module: muk_dms
 #: model:ir.model.fields,help:muk_dms.field_muk_dms_category__active
@@ -1515,32 +1516,32 @@ msgstr "Hình nhỏ"
 #. module: muk_dms
 #: model:ir.model,name:muk_dms.model_muk_dms_mixins_thumbnail
 msgid "Thumbnail Mixin"
-msgstr ""
+msgstr "Trộn hình nhỏ"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_total_elements
 msgid "Total Elements"
-msgstr ""
+msgstr "Tổng cộng thành phần"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_total_files
 msgid "Total Files"
-msgstr ""
+msgstr "Tổng cộng tài liệu"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_total_directories
 msgid "Total Subdirectories"
-msgstr ""
+msgstr "Tổng cộng thư mục con"
 
 #. module: muk_dms
 #: model:muk_dms.category,name:muk_dms.category_04_demo
 msgid "Traveling"
-msgstr ""
+msgstr "Du lịch"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_view
 msgid "Tree View"
-msgstr ""
+msgstr "Hiển thị dạng cây"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__mimetype
@@ -1550,38 +1551,38 @@ msgstr "Loại"
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
 msgid "Unlock"
-msgstr ""
+msgstr "Mở khoá"
 
 #. module: muk_dms
 #. openerp-web
 #: code:addons/muk_dms/static/src/js/views/file/kanban/file_kanban_controller.js:61
 #, python-format
 msgid "Upload Error"
-msgstr ""
+msgstr "Lỗi tải lên"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_file_step
 msgid "Upload File"
-msgstr ""
+msgstr "Tập tin tải lên"
 
 #. module: muk_dms
 #. openerp-web
 #: code:addons/muk_dms/static/src/js/views/mixins/file_upload.js:66
 #, python-format
 msgid "Upload Files"
-msgstr ""
+msgstr "Tập tin tải lên"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_file_step
 msgid "Upload your first File."
-msgstr ""
+msgstr "Tải lên tập tin đầu tiên"
 
 #. module: muk_dms
 #. openerp-web
 #: code:addons/muk_dms/static/src/js/views/mixins/file_upload.js:67
 #, python-format
 msgid "Uploading..."
-msgstr ""
+msgstr "Đang tải lên..."
 
 #. module: muk_dms
 #: model:res.groups,name:muk_dms.group_dms_user
@@ -1591,12 +1592,12 @@ msgstr "Người dùng"
 #. module: muk_dms
 #: model:muk_dms.tag,name:muk_dms.tag_09_demo
 msgid "Vendor Bill"
-msgstr ""
+msgstr "Hoá đơn nhà cung cấp"
 
 #. module: muk_dms
 #: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_version
 msgid "Versioning"
-msgstr ""
+msgstr "Phiên bản"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
